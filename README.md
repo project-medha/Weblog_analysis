@@ -1,6 +1,6 @@
 # Apache Log Analyzer
 
-*Overview*
+**Overview**
 This project is a Python-based Apache log analyzer that processes HTTP access logs to extract, parse, and analyze data such as the most frequently accessed URLs, malicious traffic patterns, and user agents. The goal is to help identify traffic trends, detect anomalies, and gain insights into website usage.
 
 **Features**
